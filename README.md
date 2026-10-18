@@ -1,4 +1,4 @@
-# News Headlines Scraper
+# News Headlines Scraper - Python
 
 A small Python script that fetches BBC News and prints up to five unique, non-empty headlines in the terminal using `requests` and BeautifulSoup.
 
